@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adsfasdfdas  dasfdasfadf
+=======
+git repo2
+>>>>>>> parent of ec112e1... first commit
